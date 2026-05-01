@@ -14,4 +14,4 @@ Vous pouvez visualiser le projet ici : [Cake Menu](https://docaridr.github.io/Wo
 
 1. Clonez le dépôt :
    ```bash
-   git clone [https://github.com/DocariDR/Workshop-Cafe-Menu---freeCodeCamp.git](https://github.com/DocariDR/Workshop-Cafe-Menu---freeCodeCamp.git)
+   git clone https://github.com/DocariDR/Workshop-Cafe-Menu---freeCodeCamp.git
