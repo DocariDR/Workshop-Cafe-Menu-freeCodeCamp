@@ -9,7 +9,7 @@
 
 ## Aperçu
 
-![Capture d'écran du projet](Capture d'écran Cafe-Menu-Workshop.png)
+![Capture d'écran du projet](./screenshot-Cafe-Menu-Workshop.png)
 
 ---
 
